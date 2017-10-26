@@ -17,3 +17,22 @@ C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Client.FormI
 C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.pdb
 C:\Users\Audrey\documents\visual studio 2015\Projects\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Sql.dll
 C:\Users\Audrey\documents\visual studio 2015\Projects\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Sql.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Client.FormIhm.exe.config
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.exe
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Client.FormIhm.exe
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Client.FormIhm.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Entities.dll
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.AbstractDefinition.dll
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Factory.dll
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Sql.dll
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Natif.dll
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Entities.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.AbstractDefinition.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Factory.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Sql.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\bin\Debug\Models.Natif.pdb
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.csprojResolveAssemblyReference.cache
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.PIM.resources
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.Properties.Resources.resources
+E:\ING5\Net\MyAirport.Pim\Client.FormIhm\obj\Debug\Client.FormIhm.csproj.GenerateResource.Cache
