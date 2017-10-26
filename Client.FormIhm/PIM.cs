@@ -78,5 +78,10 @@ namespace Client.FormIhm
         {
 
         }
+
+        private void réinitialiserToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
