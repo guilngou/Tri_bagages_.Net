@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyAirport.Pim.Entities;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -50,8 +51,29 @@ namespace Client.FormIhm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var bagage = MyAirport.Pim.Models.Factory.Model.GetBagage("023232546100");
-            Console.WriteLine(bagage);
+            List<BagageDefinition> bagages = MyAirport.Pim.Models.Factory.Model.GetBagage("023232546100");
+            Console.WriteLine(bagages[0].CodeIata.ToString());
+            this.textBox_codeIata.Text = bagages[0].CodeIata.ToString();
+            this.textBox_codeIata.Enabled = false;
+            Console.WriteLine(bagages[0].Compagnie.ToString());
+            this.textBox_compagnie.Text = bagages[0].Compagnie.ToString();
+            this.textBox_compagnie.Enabled = false;
+            Console.WriteLine(bagages[0].DateVol.ToString());
+            this.textBox_date.Text = bagages[0].DateVol.ToString();
+            this.textBox_date.Enabled = false;
+            Console.WriteLine(bagages[0].EnContinuation.ToString());
+            this.checkBox_continuation.Checked = bagages[0].EnContinuation;
+            this.checkBox_continuation.Enabled = false;
+            Console.WriteLine(bagages[0].IdBagage.ToString());
+            Console.WriteLine(bagages[0].Itineraire.ToString());
+            this.textBox_itineraire.Text = bagages[0].Itineraire.ToString();
+            this.textBox_itineraire.Enabled = false;
+            Console.WriteLine(bagages[0].Ligne.ToString());
+            this.textBox_ligne.Text = bagages[0].Ligne.ToString();
+            this.textBox_ligne.Enabled = false;
+            Console.WriteLine(bagages[0].Prioritaire.ToString());
+            this.checkBox_prioritaire.Checked = bagages[0].Prioritaire;
+            this.checkBox_prioritaire.Enabled = false;
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -83,5 +105,7 @@ namespace Client.FormIhm
         {
 
         }
+
+     
     }
 }

@@ -7,3 +7,12 @@ C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Models.Sql\b
 C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.csprojResolveAssemblyReference.cache
 C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.dll
 C:\Users\Audrey\Documents\Visual Studio 2015\Projects\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.pdb
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Models.Sql.dll
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Models.Sql.pdb
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Entities.dll
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Models.AbstractDefinition.dll
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Entities.pdb
+E:\ING5\Net\MyAirport.Pim\Models.Sql\bin\Debug\Models.AbstractDefinition.pdb
+E:\ING5\Net\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.csprojResolveAssemblyReference.cache
+E:\ING5\Net\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.dll
+E:\ING5\Net\MyAirport.Pim\Models.Sql\obj\Debug\Models.Sql.pdb
